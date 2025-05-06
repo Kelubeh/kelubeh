@@ -119,11 +119,14 @@ With over 3 years of experience, I specialize in building scalable, efficient we
 
 ## 📊 GitHub Analytics
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px; margin: 30px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=kelubeh&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" style="max-width: 100%;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelubeh&theme=github-dark&hide_border=true" alt="GitHub Streak" style="max-width: 100%;">
-</div>
+<p align="center">
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=kelubeh&show_icons=true&theme=github_dark&hide=issues" alt="Kelubeh GitHub stats" />
+</p>
 
-<div style="margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelubeh&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" style="max-width: 100%;">
-</div>
+<p align="center">
+  <img width="420" src="https://streak-stats.demolab.com/?user=kelubeh&theme=dark" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelubeh&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
