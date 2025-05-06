@@ -24,9 +24,7 @@ With over 3 years of experience, I specialize in building scalable, efficient we
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" height="40">
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" height="40">
   <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" height="40">
-  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" height="40">
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" height="40">
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" height="40">
 </div>
 </div>
 
